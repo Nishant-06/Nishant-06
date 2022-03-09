@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-06&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-06" /> </p>
 
-- 📝 I regularly write articles on [https://wordoodles.com/](https://wordoodles.com/)
+- 📝 Founder [Wordoodles](https://wordoodles.com/)
 
 - 💬 Ask me about **Application Development**
 
 - 📫 How to reach me **nishant14061996@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1NCj0ozZaFAXbBIfaP0J_GpkOclQ4NGsp](https://drive.google.com/drive/u/0/folders/1NCj0ozZaFAXbBIfaP0J_GpkOclQ4NGsp)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1NCj0ozZaFAXbBIfaP0J_GpkOclQ4NGsp)
 
 - ⚡ Fun fact **I think I am Funny XD**
 
